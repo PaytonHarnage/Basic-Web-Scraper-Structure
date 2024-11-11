@@ -18,3 +18,8 @@ This project is a Python-based web scraper designed with a focus on security. It
 * Extend security checks to include known vulnerabilities using external APIs
 * Integrate machine learning to detect suspicious patterns across large datasets
 * Support for dynamic, JavaScript-heavy websites using tools Selenium
+
+# How to Run: 
+1. Make sure you have installed the necessary libraries (e.g., requests, beautifulsoup4, lxml).
+2. Run the script in your terminal or IDE
+3. Enter the URL of a website you want to analyze when prompted
